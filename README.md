@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/RvDesignStudio"><img src="https://api.daily.dev/devcards/6e646978bd4f479a9fac87e2aeee8648.png?r=4gy" width="400" alt="Reinier's Dev Card"/></a>
+<a href="https://app.daily.dev/RvDesignStudio"><img src="https://api.daily.dev/devcards/6e646978bd4f479a9fac87e2aeee8648.png?r=npb" width="400" alt="Reinier's Dev Card"/></a>
 
 <!--
 **RvDstudio/RvDstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
